@@ -1,3 +1,9 @@
-.login-button {
-    color: red;
+.local-selector-button {
+    color: blue;
+    padding-top: 1rem;
+}
+
+.component-login-button {
+    color: green;
+    padding-top: 1rem;
 }

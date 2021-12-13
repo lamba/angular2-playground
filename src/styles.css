@@ -14,10 +14,12 @@
     width: 10rem;
 }
 
-.login-button {
+.global-selector-button {
     color: red;
+    padding-top: 1rem;
 }
 
 .other-login-button {
     color: green;
+    padding-top: 1rem;
 }
